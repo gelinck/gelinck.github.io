@@ -1,5 +1,5 @@
 ---
-title: "Tutor in Continuum Mechanics at École des Ponts"
+title: "Teaching assistant in Calculus at École des Ponts"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-continuum-mechanics
