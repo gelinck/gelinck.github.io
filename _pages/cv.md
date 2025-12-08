@@ -45,7 +45,7 @@ redirect_from:
 
 ### Education
 
-- **PhD thesis at École des Ponts ParisTech (2025 - Today)**
+- **PhD thesis at École Nationale des Ponts et Chaussées  (2025 - Today)**
   - PhD student in mathematics.
 
 - **Master student at IPP (2024 - 2025)**
