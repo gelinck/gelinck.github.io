@@ -11,23 +11,23 @@ redirect_from:
 ### Research Experience
 
 - **PhD Thesis at CERMICS, ENPC (2025 - Today)**  
-  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)*  
+  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)*,  
   Stabilization of hyperbolic systems, the F-equivalence and the output feedback stabilization problems.
 
 - **Master Thesis at CERMICS, ENPC (March - July 2025)**  
-  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)* 
+  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)*, 
   Stability of a 2*2 hyperbolic system. 
 
 - **Master Thesis at Dmaths Group 5, ETH Zurich (April - July 2024)**  
-  *Supervised by [Mikaella Iacobelli](https://people.math.ethz.ch/~imikaela/)*  
+  *Supervised by [Mikaella Iacobelli](https://people.math.ethz.ch/~imikaela/)*, 
   Uniqueness of solutions to the Vlasov-Poisson system.
 
 - **Bachelor Thesis at CEREMADE, Université Paris Dauphine (January - June 2021)**  
-  *Supervised by [Antonin Chambolle](https://www.ceremade.dauphine.fr/~chambolle/)*  
+  *Supervised by [Antonin Chambolle](https://www.ceremade.dauphine.fr/~chambolle/)*,  
   Duality in linear optimization ; the max flow - min cut problem.
 
 - **Bachelor Thesis at IMJ-PRG, Université de Paris (February - June 2020)**  
-  *Supervised by [Adrien Brochier](https://abrochier.org/)*
+  *Supervised by [Adrien Brochier](https://abrochier.org/)*,
   The braid group and the isotopy problem.    
 
 ---
