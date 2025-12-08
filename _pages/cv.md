@@ -10,66 +10,54 @@ redirect_from:
 
 ### Research Experience
 
-- **PhD thesis at CERMICS (2025 - Today)**  
+- **PhD Thesis at CERMICS, ENPC (2025 - Today)**  
   *Superised by Amaury Hayat and Pierre Lissy*  
-  
-  - **Research Internship at CERMICS**  
-  *CERMICS, Summer 2024*  
+  Stabilization of hyperbolic systems, the F-equivalence and the output feedback stabilization problems.
 
-  - **Research Internship at CERMICS**  
-  *CERMICS, Summer 2024*  
+- **Master Thesis at CERMICS, ENPC (March - July 2025)**  
+  *Superised by Amaury Hayat and Pierre Lissy* 
+  Stability of a 2*2 hyperbolic system. 
 
-  - **Research Internship at CERMICS**  
-  *CERMICS, Summer 2024*  
+- **Master Thesis at Dmaths Group 5, ETH Zurich (April - July 2024)**  
+  *Supervised by Mikaella Iacobelli*  
+  Uniqueness of solutions to the Vlasov-Poisson system.
 
-  - **Research Internship at CERMICS**  
-  *CERMICS, Summer 2024*  
-  
-  - **Research Internship at CERMICS**  
-  *CERMICS, Summer 2024*  
+- **Bachelor Thesis at CEREMADE, Université Paris Dauphine (January - June 2021)**  
+  *Supervised by Antonin Chambolle*  
+  Duality in linear optimization ; the max flow - min cut problem.
+
+- **Bachelor Thesis at IMJ-PRG, Université de Paris (February - June 2020)**  
+  *Supervised by Adrien Brochier*
+  The braid group and the isotopy problem.    
 
 ---
 
 ### Teaching Experience
 
-- **Colleur in Preparatory Classes (MP2I) at Lycée Fénelon Sainte-Marie (2024 - Present)**
-  - Conducting oral exams (colles) in mathematics for MP2I students.
+- **Teaching assistant at ENPC**
+  - Calculus lecture (2025), given by Etienne Bernard to 1st year engineering students.
+  - Modelisation of PDES (2025), given by Tony Lelièvre to 1st year engineering students.
 
-- **Tutor in Continuum Mechanics at École des Ponts (Sept 2023 - Jan 2024)**
-  - Provided support and guidance to engineering students.
-
-- **Private Tutor in Mathematics and Physics (2020 - Present)**
-  - Teaching students from high school to university level.
+- **Oral examiner in Preparatory Classes (MPSI) at Lycée Henri IV (2022 - 2023)**
+  - Oral exams (colles) in mathematics for first year students preparing top french engineering schools admission.
 
 ---
 
 ### Education
 
-- **École des Ponts ParisTech (2022 - 2025)**
-  - Engineering degree specializing in mathematics
-- **Sorbonne University**
-  - Master 2 in Fundamental Mathematics
-  - Master 2 in Analysis and Modeling
-- **Preparatory Classes for Engineering Schools (2020 - 2022)**
-  - Self-preparation for the MP competitive exams
-- **Baccalauréat Scientifique (2018)**
-  - Scientific Baccalaureate, Lycée Astier
+- **PhD thesis at École des Ponts ParisTech (2025 - Today)**
+  - PhD student in mathematics.
+
+- **Master student at IPP (2024 - 2025)**
+  - [Mathematical Modeling](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-mathematical-modelling), Master degree, major in applied mathematics
+
+- **Engineering student at École Polytechnique (2021 - 2025)**
+  - Engineering degree, major in fundamental mathematics
+
+- **Bachelor student at Université PSL (2018 - 2021)**
+  - [CPES](https://psl.eu/en/education/multidisciplinary-undergraduate-degree-cpes), Bachelor degree, major in mathematics and Physics
 
 ---
 
-### Skills
 
-- **Mathematics**: Geometric analysis, control theory, mathematical physics, dynamical systems, and algebraic topology
-- **Programming**: C/C++, Python, Julia
-- **Languages**: French (native), English (fluent)
-- **Soft Skills**: Self-learning, teaching, effective communication
-
----
-
-### Interests
-
-- **Academic Interests**: Differential geometry, PDE analysis, mathematical physics
-- **Personal Interests**: Piano composition and improvisation, philosophical debates
-
----
 
