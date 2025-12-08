@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-calculus
 venue: "École des Ponts"
-date: 2025-09
+date: 2025-09-15
 location: "Paris, France"
 ---
 

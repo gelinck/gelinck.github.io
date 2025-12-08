@@ -10,17 +10,23 @@ redirect_from:
 
 ### Research Experience
 
-- **Research Internship at CERMICS**  
+- **PhD thesis at CERMICS (2025 - Today)**  
+  *Superised by Amaury Hayat and Pierre Lissy*  
+  
+  - **Research Internship at CERMICS**  
   *CERMICS, Summer 2024*  
-  Conducted a research internship under the supervision of Amaury Hayat, focusing on the stabilization of semilinear parabolic PDEs using F-equivalence methods. This work resulted in the drafting of a research paper, soon to be available as a preprint.
 
-- **Riemannian Geometry Research Project**  
-  *École des Ponts, Jan 2023 - May 2023*  
-  Conducted under the supervision of Éric Cancès, exploring the differential geometric formalism for analyzing the evolution of specific dynamical systems.
+  - **Research Internship at CERMICS**  
+  *CERMICS, Summer 2024*  
 
-- **Control Theory Thesis**  
-  *Supervised by Amaury Hayat, June 2023 - Oct 2023*  
-  Developed a thesis on control and stabilization of dynamical systems, with a focus on applications such as the double pendulum, earning the Fermat Junior Prize 2023.
+  - **Research Internship at CERMICS**  
+  *CERMICS, Summer 2024*  
+
+  - **Research Internship at CERMICS**  
+  *CERMICS, Summer 2024*  
+  
+  - **Research Internship at CERMICS**  
+  *CERMICS, Summer 2024*  
 
 ---
 
