@@ -11,23 +11,23 @@ redirect_from:
 ### Research Experience
 
 - **PhD Thesis at CERMICS, ENPC (2025 - Today)**  
-  *Superised by Amaury Hayat and Pierre Lissy*  
+  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)*  
   Stabilization of hyperbolic systems, the F-equivalence and the output feedback stabilization problems.
 
 - **Master Thesis at CERMICS, ENPC (March - July 2025)**  
-  *Superised by Amaury Hayat and Pierre Lissy* 
+  *Superised by [Amaury Hayat](https://cermics.enpc.fr/~hayata/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/)* 
   Stability of a 2*2 hyperbolic system. 
 
 - **Master Thesis at Dmaths Group 5, ETH Zurich (April - July 2024)**  
-  *Supervised by Mikaella Iacobelli*  
+  *Supervised by [Mikaella Iacobelli](https://people.math.ethz.ch/~imikaela/)*  
   Uniqueness of solutions to the Vlasov-Poisson system.
 
 - **Bachelor Thesis at CEREMADE, Université Paris Dauphine (January - June 2021)**  
-  *Supervised by Antonin Chambolle*  
+  *Supervised by [Antonin Chambolle](https://www.ceremade.dauphine.fr/~chambolle/)*  
   Duality in linear optimization ; the max flow - min cut problem.
 
 - **Bachelor Thesis at IMJ-PRG, Université de Paris (February - June 2020)**  
-  *Supervised by Adrien Brochier*
+  *Supervised by [Adrien Brochier](https://abrochier.org/)*
   The braid group and the isotopy problem.    
 
 ---
@@ -35,8 +35,8 @@ redirect_from:
 ### Teaching Experience
 
 - **Teaching assistant at ENPC**
-  - Calculus lecture (2025), given by Etienne Bernard to 1st year engineering students.
-  - Modelisation of PDES (2025), given by Tony Lelièvre to 1st year engineering students.
+  - Calculus lecture (2025), given by [Etienne Bernard](https://cermics-lab.enpc.fr/etienne-bernard/) to 1st year engineering students.
+  - Modelisation of PDES (2025), given by [Tony Lelièvre](https://cermics-lab.enpc.fr/tony-lelievre/) to 1st year engineering students.
 
 - **Oral examiner in Preparatory Classes (MPSI) at Lycée Henri IV (2022 - 2023)**
   - Oral exams (colles) in mathematics for first year students preparing top french engineering schools admission.
@@ -51,7 +51,7 @@ redirect_from:
 - **Master student at IPP (2024 - 2025)**
   - [Mathematical Modeling](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-mathematical-modelling), Master degree, major in applied mathematics
 
-- **Engineering student at École Polytechnique (2021 - 2025)**
+- **Engineering student at [École Polytechnique](https://www.polytechnique.edu/en) (2021 - 2025)**
   - Engineering degree, major in fundamental mathematics
 
 - **Bachelor student at Université PSL (2018 - 2021)**
